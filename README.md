@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning langchain<br>💡 I'm a Homelab enthusiast<br>🎲 I can't stop to star repos<br>🐧 I use Arch btw<br><br>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning langchain<br>💡 I'm a Homelab enthusiast<br>🎲 I can't stop to star repos<br>🐧 I use Arch btw<br>
 
 🌟 Repositories I strongly encourage you to check out:
 
@@ -22,11 +22,13 @@
 
 <h2 align="left">My setup</h2>
 
-🪄 Window Manager: AwesomeWM
-🐚 Shell: ZSH
-🐱 Terminal: Kitty
-✍️ Editor: Lunarvim
-🎨 Theme: Catppuccin Macchiato
+<p align="left">
+🪄 Window Manager: AwesomeWM<br>
+🐚 Shell: ZSH<br>
+🐱 Terminal: Kitty<br>
+✍️ Editor: Lunarvim<br>
+🎨 Theme: Catppuccin Macchiato<br>
+</p>
 
 ###
 
