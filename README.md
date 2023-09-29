@@ -10,9 +10,25 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning langchain<br>💡 I'm a Homelab enthusiast<br>🎲 I can't stop to star repos<br>🐧 I use Arch btw<br><br>🌟 Repositories I strongly encourage you to check out</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning langchain<br>💡 I'm a Homelab enthusiast<br>🎲 I can't stop to star repos<br>🐧 I use Arch btw<br><br>
+
+🌟 Repositories I strongly encourage you to check out:
 
 [Windmill](https://github.com/windmill-labs/windmill)
+
+</p>
+
+###
+
+<h2 align="left">My setup</h2>
+
+🪄 Window Manager: AwesomeWM
+🐚 Shell: ZSH
+🐱 Terminal: Kitty
+✍️ Editor: Lunarvim
+🎨 Theme: Catppuccin Macchiato
+
+###
 
 ###
 
