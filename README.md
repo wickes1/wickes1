@@ -60,8 +60,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <hr />
   <a target="_blank" href="https://github.com/wickes1">
