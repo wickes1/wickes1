@@ -63,11 +63,11 @@
 <div align="left">
   <hr />
   <a target="_blank" href="https://github.com/wickes1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wickes1&show_icons=true&theme=radical&count_private=true&hide=stars" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wickes1&show_icons=true&count_private=true&hide=stars&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" />
   </a>
   <hr />
   <a target="_blank" href="https://github.com/wickes1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wickes1&show_icons=true&theme=radical&count_private=true&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wickes1&show_icons=true&count_private=true&layout=compact&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" />
   </a>
 </div>
 
