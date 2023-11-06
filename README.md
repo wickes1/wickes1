@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Wickes and I'm a Data Egnineer</p>
+<p align="left">I am Wickes, a Data Egnineer</p>
 
 ###
 
@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning langchain<br>💡 I'm a Homelab enthusiast<br>🎲 I can't stop to star repos<br>🐧 I use Arch btw<br>
+<p align="left">
+<a target="_blank" href="https://www.wix-doc.com">📝 Check my blog</a><br>
+✨ Creating bugs since 2021<br>
+📚 I'm currently learning langchain<br>
+💡 I'm a Homelab enthusiast<br>
+🎲 I can't stop to star repos<br>
+🐧 I use Arch btw<br>
 
 🌟 Repositories I strongly encourage you to check out:
 
@@ -52,7 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
 
-###
+### My Pet Phrase
 
 <div align="left">
   <img height="250" src="https://github.com/wickes1/wickes1/blob/f00039ff34a67e3aa7cf6a5d8a2607509bdfc2e3/assets/this-is-fine.jpg?raw=true"  />
