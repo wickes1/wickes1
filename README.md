@@ -13,7 +13,7 @@
 <p align="left">
 <a target="_blank" href="https://www.wix-doc.com">📝 Check my blog</a><br>
 ✨ Creating bugs since 2021<br>
-📚 I'm currently actively building my HomeLab! [Check it out](https://github.com/wickes1/homelab-dev)<br>
+📚 I'm currently actively building my HomeLab! <a target="_blank" href="https://github.com/wickes1/homelab-dev">Please give me ADVICES!</a><br>
 💡 I'm a Homelab enthusiast<br>
 🎲 I can't stop to star repos<br>
 🐧 I use Arch btw<br>
