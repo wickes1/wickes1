@@ -37,15 +37,6 @@
 
 ###
 
-<h2 align="left">recent writing</h2>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-➜ more at <a href="https://wickend.dev">wickend.dev</a>
-
-###
-
 ---
 
 `brew tap wickes1/tap` if you want my macOS tools.
