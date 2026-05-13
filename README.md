@@ -1,26 +1,86 @@
-# hi, I'm Wickes 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-I build small AI tools that one human can run on a laptop.
+###
 
-## now
+<p align="left">I am Wickes, a Data Egnineer</p>
 
-Vibe coding through Claude Code, with OpenCode and Codex on the side. Most of what I ship lately is an **MCP server**, a **macOS menu-bar app**, or a **brew-installable CLI**.
+###
 
-Currently into:
-- the Model Context Protocol — building servers that connect AI clients to real tools (bookmarks, notes, monitors)
-- self-hosted Matrix + AI-drafted replies (so I can take a long walk and come back to twenty drafted messages)
-- macOS desktop tooling that respects an 8 ms budget
+<h2 align="left">About me</h2>
 
-## background
+###
 
-Data engineering and the platform work that comes with it — ETL pipelines, microservices migrations, Kubernetes, Terraform, ArgoCD. Lived on Arch Linux for four years before switching to a MacBook. Languages I actually reach for: Go, TypeScript, Swift, Python.
+<p align="left">
+<a target="_blank" href="https://www.wix-doc.com">📝 Check my blog</a><br>
+✨ Creating bugs since 2021<br>
+📚 I'm currently actively building my HomeLab! <a target="_blank" href="https://github.com/wickes1/homelab-dev">Please give me ADVICES!</a><br>
+💡 I'm a Homelab enthusiast<br>
+🎲 I can't stop to star repos<br>
+🐧 I use Arch btw<br>
 
-## links
+🌟 Repositories I strongly encourage you to check out:
 
-- [wickend.dev](https://wickend.dev) — projects, writing, voice
-- [hi@wickend.dev](mailto:hi@wickend.dev) — email
-- [LinkedIn](https://linkedin.com/in/wickes-w) — formal CV
+[Windmill](https://github.com/windmill-labs/windmill)
 
----
+</p>
 
-`brew tap wickes1/tap` if you want my macOS tools.
+###
+
+<h2 align="left">My setup</h2>
+
+<p align="left">
+🪄 Window Manager: AwesomeWM<br>
+🐚 Shell: ZSH<br>
+🐱 Terminal: Kitty<br>
+✍️ Editor: Lunarvim<br>
+🎨 Theme: Catppuccin Macchiato<br>
+</p>
+
+###
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+</div>
+
+### My Pet Phrase
+
+<div align="left">
+  <img height="250" src="https://github.com/wickes1/wickes1/blob/f00039ff34a67e3aa7cf6a5d8a2607509bdfc2e3/assets/this-is-fine.jpg?raw=true"  />
+</div>
+
+###
+
+<div align="left">
+  <hr />
+  <a target="_blank" href="https://github.com/wickes1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wickes1&show_icons=true&count_private=true&hide=stars&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" />
+  </a>
+  <hr />
+  <a target="_blank" href="https://github.com/wickes1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wickes1&show_icons=true&count_private=true&layout=compact&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wickes1.wickes1&left_text=Welcome"  />
+</div>
+
+###
