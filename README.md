@@ -23,5 +23,5 @@ brew tap wickes1/tap
 ---
 
 <div align="center">
-  <img height="220" src="https://github.com/wickes1/wickes1/blob/main/assets/this-is-fine.jpg?raw=true" alt="this is fine" />
+  <img width="420" src="https://github.com/wickes1/wickes1/blob/main/assets/developers-with-ai-3am.png?raw=true" alt="Normal people with AI vs developers with AI at 3AM" />
 </div>
