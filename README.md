@@ -23,5 +23,8 @@ brew tap wickes1/tap
 ---
 
 <div align="center">
+  <sub><b>Memes I'm Enjoying Lately</b></sub>
+  <br />
+  <br />
   <img width="420" src="https://github.com/wickes1/wickes1/blob/main/assets/developers-with-ai-3am.png?raw=true" alt="Normal people with AI vs developers with AI at 3AM" />
 </div>
