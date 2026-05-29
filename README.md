@@ -1,42 +1,27 @@
-<h1 align="left">hi, I'm Wickes 👋</h1>
+### hey 👋
 
-###
+I'm Wickes — I build small developer tools.
+More at [wickend.dev](https://wickend.dev).
 
-<p align="left">
-  <strong>A developer in the AI era.</strong><br />
-  <a href="https://wickend.dev">
-    <img alt="Wiring AI into every part worth optimizing" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1500&color=C6A0F6&vCenter=true&width=700&lines=Wiring+AI+into+code.;Wiring+AI+into+life.;Wiring+AI+into+every+part+worth+optimizing." />
-  </a>
-</p>
+#### shipping right now
 
-###
+- **[chromium-bookmarks-mcp](https://github.com/wickes1/chromium-bookmarks-mcp)** — bookmark MCP for Claude / Cursor / Windsurf
+- **[joplin-mcp](https://github.com/wickes1/joplin-mcp)** — MCP server for Joplin notes
+- **[claude-monitor-lite](https://github.com/wickes1/claude-monitor-lite)** — Claude rate-limit menu bar
+- **[Komet](https://github.com/wickes1/Komet)** — minimal macOS launcher
+- **[unattended-claude](https://github.com/wickes1/unattended-claude)** — unattended Claude Code runtime
+- **[youtube-transcript-ts](https://github.com/wickes1/youtube-transcript-ts)** — YouTube transcripts, on npm
 
-<h2 align="left">About me</h2>
+```sh
+brew tap wickes1/tap
+```
 
-###
+#### elsewhere
 
-<p align="left">
-🌐 <a target="_blank" href="https://wickend.dev">wickend.dev</a> — projects, writing, voice<br>
-🤖 Vibe coding through Claude Code; OpenCode and Codex on the side<br>
-🪄 Currently obsessed with the Model Context Protocol — building servers that connect AI clients to real tools<br>
-🎲 I can't stop starring repos<br>
-🐧 Used Arch Linux for 4 years; now on a MacBook<br>
-</p>
-
-###
-
-<div align="left">
-  <img height="250" src="https://github.com/wickes1/wickes1/blob/f00039ff34a67e3aa7cf6a5d8a2607509bdfc2e3/assets/this-is-fine.jpg?raw=true"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wickes1&theme=catppuccin_mocha&hide_border=true&area=true&custom_title=Activity%20Graph" />
-</div>
-
-###
+[wickend.dev](https://wickend.dev) · [linkedin](https://www.linkedin.com/in/wickes-wong)
 
 ---
 
-`brew tap wickes1/tap` if you want my macOS tools.
+<div align="center">
+  <img height="220" src="https://github.com/wickes1/wickes1/blob/main/assets/this-is-fine.jpg?raw=true" alt="this is fine" />
+</div>
